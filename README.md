@@ -1,6 +1,6 @@
 Snake Game
 
-A classic Snake Game implemented using HTML, CSS, JavaScript, and Canvas.
+A classic Snake Game implemented using HTML, CSS, JavaScript and Canvas.
 
 
 Features
